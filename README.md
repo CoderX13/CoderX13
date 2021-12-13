@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @CoderX13
 - 👀 I’m interested in AI/ML 
-- 🌱 I’m currently learning JAVA
+- 🌱 I’m Java Guy
+- 🔗 https://www.linkedin.com/in/mohit-singh-602132200/
 - 📫 How to reach me mohitsingh1342000@gmail.com
 
 <!---
